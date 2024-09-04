@@ -3,3 +3,4 @@ numpy
 matplotlib
 ipympl
 scipy
+scikit-learn
