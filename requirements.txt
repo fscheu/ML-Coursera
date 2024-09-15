@@ -4,3 +4,4 @@ matplotlib
 ipympl
 scipy
 scikit-learn
+tensorflow
